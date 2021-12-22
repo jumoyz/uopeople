@@ -1,2 +1,4 @@
 # UoPeople
-University of the People Programming Assignment Repository
+University of the People 
+Computer Science (CS)
+All Programming Assignments
